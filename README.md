@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi, I'm Tony 👋
 
-<!--
-**bugbountybarista/BugBountyBarista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🌱
+- 🔭 Cybersecurity Specialist
+- 💼 Experienced in network and web testing
+- 🖥️ Background in programming
+- 🐧 Linux Enthusiast
+- ☕ Always on the hunt for the perfect cup of coffee
+- 📚 Avid reader
+- 👾 Commodore and Retro Computing Advocate
 
-Here are some ideas to get you started:
+## Tech Stack 🛠️
+- **Web Testing**: OWASP Testing Framework
+- **Languages**: Python, HTML, Javascript, Bash, Powershell
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications 🏆
+- eJPTv2 | OSWP | Sec+ | CFA-Red
